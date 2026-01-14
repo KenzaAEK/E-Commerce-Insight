@@ -1,0 +1,7 @@
+pandas
+numpy
+faker
+openpyxl
+sqlalchemy
+# psycopg2-binary  # Pour PostgreSQL
+pymysql  # Pour MySQL
