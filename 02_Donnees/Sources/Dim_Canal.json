@@ -1,0 +1,17 @@
+[
+  {
+    "ID_Canal": 1,
+    "Nom_Canal": "Web",
+    "Type": "Online"
+  },
+  {
+    "ID_Canal": 2,
+    "Nom_Canal": "Mobile",
+    "Type": "Online"
+  },
+  {
+    "ID_Canal": 3,
+    "Nom_Canal": "Magasin",
+    "Type": "Offline"
+  }
+]

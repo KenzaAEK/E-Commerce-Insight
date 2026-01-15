@@ -1,0 +1,20 @@
+[
+  {
+    "ID_Livraison": 1,
+    "Transporteur": "Amana",
+    "Type_Livraison": "Standard",
+    "Delai_Prevu_Jours": 3
+  },
+  {
+    "ID_Livraison": 2,
+    "Transporteur": "CTM",
+    "Type_Livraison": "Express",
+    "Delai_Prevu_Jours": 1
+  },
+  {
+    "ID_Livraison": 3,
+    "Transporteur": "Chrono Express",
+    "Type_Livraison": "Standard",
+    "Delai_Prevu_Jours": 2
+  }
+]

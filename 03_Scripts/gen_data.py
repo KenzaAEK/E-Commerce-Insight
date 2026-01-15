@@ -1,9 +1,9 @@
 """
 Script de génération de données pour projet E-Commerce Power BI
-Auteur : [Ton nom]
+Auteur : ABOU EL KASEM KENZA ET EL BAKALI MALAK
 Date : Janvier 2026
 
-✅ Version corrigée (alignée cahier des charges + tes exigences de formats) :
+Version corrigée (alignée cahier des charges + tes exigences de formats) :
 - Ajout DateTime_Vente + Heure_Vente (Heatmap Jour x Heure)
 - Dim_Promotion : ajout Date_Debut / Date_Fin
 - Garantie NB_PRODUITS exact (complétion si catalogue insuffisant)

@@ -1,0 +1,732 @@
+﻿ID_Date;Date_Complete;Annee;Trimestre;Mois;Mois_Nom;Semaine;Jour;Jour_Semaine;Est_Weekend;Est_Ferie;Saison_Commerciale
+1;2023-01-01;2023;1;1;January;52;1;Sunday;1;0;Soldes Hiver
+2;2023-01-02;2023;1;1;January;1;2;Monday;0;0;Soldes Hiver
+3;2023-01-03;2023;1;1;January;1;3;Tuesday;0;0;Soldes Hiver
+4;2023-01-04;2023;1;1;January;1;4;Wednesday;0;0;Soldes Hiver
+5;2023-01-05;2023;1;1;January;1;5;Thursday;0;0;Soldes Hiver
+6;2023-01-06;2023;1;1;January;1;6;Friday;0;0;Soldes Hiver
+7;2023-01-07;2023;1;1;January;1;7;Saturday;1;0;Soldes Hiver
+8;2023-01-08;2023;1;1;January;1;8;Sunday;1;0;Soldes Hiver
+9;2023-01-09;2023;1;1;January;2;9;Monday;0;0;Soldes Hiver
+10;2023-01-10;2023;1;1;January;2;10;Tuesday;0;0;Soldes Hiver
+11;2023-01-11;2023;1;1;January;2;11;Wednesday;0;0;Soldes Hiver
+12;2023-01-12;2023;1;1;January;2;12;Thursday;0;0;Soldes Hiver
+13;2023-01-13;2023;1;1;January;2;13;Friday;0;0;Soldes Hiver
+14;2023-01-14;2023;1;1;January;2;14;Saturday;1;0;Soldes Hiver
+15;2023-01-15;2023;1;1;January;2;15;Sunday;1;0;Soldes Hiver
+16;2023-01-16;2023;1;1;January;3;16;Monday;0;0;Soldes Hiver
+17;2023-01-17;2023;1;1;January;3;17;Tuesday;0;0;Soldes Hiver
+18;2023-01-18;2023;1;1;January;3;18;Wednesday;0;0;Soldes Hiver
+19;2023-01-19;2023;1;1;January;3;19;Thursday;0;0;Soldes Hiver
+20;2023-01-20;2023;1;1;January;3;20;Friday;0;0;Soldes Hiver
+21;2023-01-21;2023;1;1;January;3;21;Saturday;1;0;Soldes Hiver
+22;2023-01-22;2023;1;1;January;3;22;Sunday;1;0;Soldes Hiver
+23;2023-01-23;2023;1;1;January;4;23;Monday;0;0;Soldes Hiver
+24;2023-01-24;2023;1;1;January;4;24;Tuesday;0;0;Soldes Hiver
+25;2023-01-25;2023;1;1;January;4;25;Wednesday;0;0;Soldes Hiver
+26;2023-01-26;2023;1;1;January;4;26;Thursday;0;0;Soldes Hiver
+27;2023-01-27;2023;1;1;January;4;27;Friday;0;0;Soldes Hiver
+28;2023-01-28;2023;1;1;January;4;28;Saturday;1;0;Soldes Hiver
+29;2023-01-29;2023;1;1;January;4;29;Sunday;1;0;Soldes Hiver
+30;2023-01-30;2023;1;1;January;5;30;Monday;0;0;Soldes Hiver
+31;2023-01-31;2023;1;1;January;5;31;Tuesday;0;0;Soldes Hiver
+32;2023-02-01;2023;1;2;February;5;1;Wednesday;0;0;Soldes Hiver
+33;2023-02-02;2023;1;2;February;5;2;Thursday;0;0;Soldes Hiver
+34;2023-02-03;2023;1;2;February;5;3;Friday;0;0;Soldes Hiver
+35;2023-02-04;2023;1;2;February;5;4;Saturday;1;0;Soldes Hiver
+36;2023-02-05;2023;1;2;February;5;5;Sunday;1;0;Soldes Hiver
+37;2023-02-06;2023;1;2;February;6;6;Monday;0;0;Soldes Hiver
+38;2023-02-07;2023;1;2;February;6;7;Tuesday;0;0;Soldes Hiver
+39;2023-02-08;2023;1;2;February;6;8;Wednesday;0;0;Soldes Hiver
+40;2023-02-09;2023;1;2;February;6;9;Thursday;0;0;Soldes Hiver
+41;2023-02-10;2023;1;2;February;6;10;Friday;0;0;Soldes Hiver
+42;2023-02-11;2023;1;2;February;6;11;Saturday;1;0;Soldes Hiver
+43;2023-02-12;2023;1;2;February;6;12;Sunday;1;0;Soldes Hiver
+44;2023-02-13;2023;1;2;February;7;13;Monday;0;0;Soldes Hiver
+45;2023-02-14;2023;1;2;February;7;14;Tuesday;0;0;Soldes Hiver
+46;2023-02-15;2023;1;2;February;7;15;Wednesday;0;0;Soldes Hiver
+47;2023-02-16;2023;1;2;February;7;16;Thursday;0;0;Soldes Hiver
+48;2023-02-17;2023;1;2;February;7;17;Friday;0;0;Soldes Hiver
+49;2023-02-18;2023;1;2;February;7;18;Saturday;1;0;Soldes Hiver
+50;2023-02-19;2023;1;2;February;7;19;Sunday;1;0;Soldes Hiver
+51;2023-02-20;2023;1;2;February;8;20;Monday;0;0;Soldes Hiver
+52;2023-02-21;2023;1;2;February;8;21;Tuesday;0;0;Soldes Hiver
+53;2023-02-22;2023;1;2;February;8;22;Wednesday;0;0;Soldes Hiver
+54;2023-02-23;2023;1;2;February;8;23;Thursday;0;0;Soldes Hiver
+55;2023-02-24;2023;1;2;February;8;24;Friday;0;0;Soldes Hiver
+56;2023-02-25;2023;1;2;February;8;25;Saturday;1;0;Soldes Hiver
+57;2023-02-26;2023;1;2;February;8;26;Sunday;1;0;Soldes Hiver
+58;2023-02-27;2023;1;2;February;9;27;Monday;0;0;Soldes Hiver
+59;2023-02-28;2023;1;2;February;9;28;Tuesday;0;0;Soldes Hiver
+60;2023-03-01;2023;1;3;March;9;1;Wednesday;0;0;Ramadan
+61;2023-03-02;2023;1;3;March;9;2;Thursday;0;0;Ramadan
+62;2023-03-03;2023;1;3;March;9;3;Friday;0;0;Ramadan
+63;2023-03-04;2023;1;3;March;9;4;Saturday;1;0;Ramadan
+64;2023-03-05;2023;1;3;March;9;5;Sunday;1;0;Ramadan
+65;2023-03-06;2023;1;3;March;10;6;Monday;0;0;Ramadan
+66;2023-03-07;2023;1;3;March;10;7;Tuesday;0;0;Ramadan
+67;2023-03-08;2023;1;3;March;10;8;Wednesday;0;0;Ramadan
+68;2023-03-09;2023;1;3;March;10;9;Thursday;0;0;Ramadan
+69;2023-03-10;2023;1;3;March;10;10;Friday;0;0;Ramadan
+70;2023-03-11;2023;1;3;March;10;11;Saturday;1;0;Ramadan
+71;2023-03-12;2023;1;3;March;10;12;Sunday;1;0;Ramadan
+72;2023-03-13;2023;1;3;March;11;13;Monday;0;0;Ramadan
+73;2023-03-14;2023;1;3;March;11;14;Tuesday;0;0;Ramadan
+74;2023-03-15;2023;1;3;March;11;15;Wednesday;0;0;Ramadan
+75;2023-03-16;2023;1;3;March;11;16;Thursday;0;0;Ramadan
+76;2023-03-17;2023;1;3;March;11;17;Friday;0;0;Ramadan
+77;2023-03-18;2023;1;3;March;11;18;Saturday;1;0;Ramadan
+78;2023-03-19;2023;1;3;March;11;19;Sunday;1;0;Ramadan
+79;2023-03-20;2023;1;3;March;12;20;Monday;0;0;Ramadan
+80;2023-03-21;2023;1;3;March;12;21;Tuesday;0;0;Ramadan
+81;2023-03-22;2023;1;3;March;12;22;Wednesday;0;0;Ramadan
+82;2023-03-23;2023;1;3;March;12;23;Thursday;0;0;Ramadan
+83;2023-03-24;2023;1;3;March;12;24;Friday;0;0;Ramadan
+84;2023-03-25;2023;1;3;March;12;25;Saturday;1;0;Ramadan
+85;2023-03-26;2023;1;3;March;12;26;Sunday;1;0;Ramadan
+86;2023-03-27;2023;1;3;March;13;27;Monday;0;0;Ramadan
+87;2023-03-28;2023;1;3;March;13;28;Tuesday;0;0;Ramadan
+88;2023-03-29;2023;1;3;March;13;29;Wednesday;0;0;Ramadan
+89;2023-03-30;2023;1;3;March;13;30;Thursday;0;0;Ramadan
+90;2023-03-31;2023;1;3;March;13;31;Friday;0;0;Ramadan
+91;2023-04-01;2023;2;4;April;13;1;Saturday;1;0;Ramadan
+92;2023-04-02;2023;2;4;April;13;2;Sunday;1;0;Ramadan
+93;2023-04-03;2023;2;4;April;14;3;Monday;0;0;Ramadan
+94;2023-04-04;2023;2;4;April;14;4;Tuesday;0;0;Ramadan
+95;2023-04-05;2023;2;4;April;14;5;Wednesday;0;0;Ramadan
+96;2023-04-06;2023;2;4;April;14;6;Thursday;0;0;Ramadan
+97;2023-04-07;2023;2;4;April;14;7;Friday;0;0;Ramadan
+98;2023-04-08;2023;2;4;April;14;8;Saturday;1;0;Ramadan
+99;2023-04-09;2023;2;4;April;14;9;Sunday;1;0;Ramadan
+100;2023-04-10;2023;2;4;April;15;10;Monday;0;0;Ramadan
+101;2023-04-11;2023;2;4;April;15;11;Tuesday;0;0;Ramadan
+102;2023-04-12;2023;2;4;April;15;12;Wednesday;0;0;Ramadan
+103;2023-04-13;2023;2;4;April;15;13;Thursday;0;0;Ramadan
+104;2023-04-14;2023;2;4;April;15;14;Friday;0;0;Ramadan
+105;2023-04-15;2023;2;4;April;15;15;Saturday;1;0;Ramadan
+106;2023-04-16;2023;2;4;April;15;16;Sunday;1;0;Ramadan
+107;2023-04-17;2023;2;4;April;16;17;Monday;0;0;Ramadan
+108;2023-04-18;2023;2;4;April;16;18;Tuesday;0;0;Ramadan
+109;2023-04-19;2023;2;4;April;16;19;Wednesday;0;0;Ramadan
+110;2023-04-20;2023;2;4;April;16;20;Thursday;0;0;Ramadan
+111;2023-04-21;2023;2;4;April;16;21;Friday;0;0;Ramadan
+112;2023-04-22;2023;2;4;April;16;22;Saturday;1;0;Ramadan
+113;2023-04-23;2023;2;4;April;16;23;Sunday;1;0;Ramadan
+114;2023-04-24;2023;2;4;April;17;24;Monday;0;0;Ramadan
+115;2023-04-25;2023;2;4;April;17;25;Tuesday;0;0;Ramadan
+116;2023-04-26;2023;2;4;April;17;26;Wednesday;0;0;Ramadan
+117;2023-04-27;2023;2;4;April;17;27;Thursday;0;0;Ramadan
+118;2023-04-28;2023;2;4;April;17;28;Friday;0;0;Ramadan
+119;2023-04-29;2023;2;4;April;17;29;Saturday;1;0;Ramadan
+120;2023-04-30;2023;2;4;April;17;30;Sunday;1;0;Ramadan
+121;2023-05-01;2023;2;5;May;18;1;Monday;0;0;Normal
+122;2023-05-02;2023;2;5;May;18;2;Tuesday;0;0;Normal
+123;2023-05-03;2023;2;5;May;18;3;Wednesday;0;0;Normal
+124;2023-05-04;2023;2;5;May;18;4;Thursday;0;0;Normal
+125;2023-05-05;2023;2;5;May;18;5;Friday;0;0;Normal
+126;2023-05-06;2023;2;5;May;18;6;Saturday;1;0;Normal
+127;2023-05-07;2023;2;5;May;18;7;Sunday;1;0;Normal
+128;2023-05-08;2023;2;5;May;19;8;Monday;0;0;Normal
+129;2023-05-09;2023;2;5;May;19;9;Tuesday;0;0;Normal
+130;2023-05-10;2023;2;5;May;19;10;Wednesday;0;0;Normal
+131;2023-05-11;2023;2;5;May;19;11;Thursday;0;0;Normal
+132;2023-05-12;2023;2;5;May;19;12;Friday;0;0;Normal
+133;2023-05-13;2023;2;5;May;19;13;Saturday;1;0;Normal
+134;2023-05-14;2023;2;5;May;19;14;Sunday;1;0;Normal
+135;2023-05-15;2023;2;5;May;20;15;Monday;0;0;Normal
+136;2023-05-16;2023;2;5;May;20;16;Tuesday;0;0;Normal
+137;2023-05-17;2023;2;5;May;20;17;Wednesday;0;0;Normal
+138;2023-05-18;2023;2;5;May;20;18;Thursday;0;0;Normal
+139;2023-05-19;2023;2;5;May;20;19;Friday;0;0;Normal
+140;2023-05-20;2023;2;5;May;20;20;Saturday;1;0;Normal
+141;2023-05-21;2023;2;5;May;20;21;Sunday;1;0;Normal
+142;2023-05-22;2023;2;5;May;21;22;Monday;0;0;Normal
+143;2023-05-23;2023;2;5;May;21;23;Tuesday;0;0;Normal
+144;2023-05-24;2023;2;5;May;21;24;Wednesday;0;0;Normal
+145;2023-05-25;2023;2;5;May;21;25;Thursday;0;0;Normal
+146;2023-05-26;2023;2;5;May;21;26;Friday;0;0;Normal
+147;2023-05-27;2023;2;5;May;21;27;Saturday;1;0;Normal
+148;2023-05-28;2023;2;5;May;21;28;Sunday;1;0;Normal
+149;2023-05-29;2023;2;5;May;22;29;Monday;0;0;Normal
+150;2023-05-30;2023;2;5;May;22;30;Tuesday;0;0;Normal
+151;2023-05-31;2023;2;5;May;22;31;Wednesday;0;0;Normal
+152;2023-06-01;2023;2;6;June;22;1;Thursday;0;0;Normal
+153;2023-06-02;2023;2;6;June;22;2;Friday;0;0;Normal
+154;2023-06-03;2023;2;6;June;22;3;Saturday;1;0;Normal
+155;2023-06-04;2023;2;6;June;22;4;Sunday;1;0;Normal
+156;2023-06-05;2023;2;6;June;23;5;Monday;0;0;Normal
+157;2023-06-06;2023;2;6;June;23;6;Tuesday;0;0;Normal
+158;2023-06-07;2023;2;6;June;23;7;Wednesday;0;0;Normal
+159;2023-06-08;2023;2;6;June;23;8;Thursday;0;0;Normal
+160;2023-06-09;2023;2;6;June;23;9;Friday;0;0;Normal
+161;2023-06-10;2023;2;6;June;23;10;Saturday;1;0;Normal
+162;2023-06-11;2023;2;6;June;23;11;Sunday;1;0;Normal
+163;2023-06-12;2023;2;6;June;24;12;Monday;0;0;Normal
+164;2023-06-13;2023;2;6;June;24;13;Tuesday;0;0;Normal
+165;2023-06-14;2023;2;6;June;24;14;Wednesday;0;0;Normal
+166;2023-06-15;2023;2;6;June;24;15;Thursday;0;0;Normal
+167;2023-06-16;2023;2;6;June;24;16;Friday;0;0;Normal
+168;2023-06-17;2023;2;6;June;24;17;Saturday;1;0;Normal
+169;2023-06-18;2023;2;6;June;24;18;Sunday;1;0;Normal
+170;2023-06-19;2023;2;6;June;25;19;Monday;0;0;Normal
+171;2023-06-20;2023;2;6;June;25;20;Tuesday;0;0;Normal
+172;2023-06-21;2023;2;6;June;25;21;Wednesday;0;0;Normal
+173;2023-06-22;2023;2;6;June;25;22;Thursday;0;0;Normal
+174;2023-06-23;2023;2;6;June;25;23;Friday;0;0;Normal
+175;2023-06-24;2023;2;6;June;25;24;Saturday;1;0;Normal
+176;2023-06-25;2023;2;6;June;25;25;Sunday;1;0;Normal
+177;2023-06-26;2023;2;6;June;26;26;Monday;0;0;Normal
+178;2023-06-27;2023;2;6;June;26;27;Tuesday;0;0;Normal
+179;2023-06-28;2023;2;6;June;26;28;Wednesday;0;0;Normal
+180;2023-06-29;2023;2;6;June;26;29;Thursday;0;0;Normal
+181;2023-06-30;2023;2;6;June;26;30;Friday;0;0;Normal
+182;2023-07-01;2023;3;7;July;26;1;Saturday;1;0;Soldes Été
+183;2023-07-02;2023;3;7;July;26;2;Sunday;1;0;Soldes Été
+184;2023-07-03;2023;3;7;July;27;3;Monday;0;0;Soldes Été
+185;2023-07-04;2023;3;7;July;27;4;Tuesday;0;0;Soldes Été
+186;2023-07-05;2023;3;7;July;27;5;Wednesday;0;0;Soldes Été
+187;2023-07-06;2023;3;7;July;27;6;Thursday;0;0;Soldes Été
+188;2023-07-07;2023;3;7;July;27;7;Friday;0;0;Soldes Été
+189;2023-07-08;2023;3;7;July;27;8;Saturday;1;0;Soldes Été
+190;2023-07-09;2023;3;7;July;27;9;Sunday;1;0;Soldes Été
+191;2023-07-10;2023;3;7;July;28;10;Monday;0;0;Soldes Été
+192;2023-07-11;2023;3;7;July;28;11;Tuesday;0;0;Soldes Été
+193;2023-07-12;2023;3;7;July;28;12;Wednesday;0;0;Soldes Été
+194;2023-07-13;2023;3;7;July;28;13;Thursday;0;0;Soldes Été
+195;2023-07-14;2023;3;7;July;28;14;Friday;0;0;Soldes Été
+196;2023-07-15;2023;3;7;July;28;15;Saturday;1;0;Soldes Été
+197;2023-07-16;2023;3;7;July;28;16;Sunday;1;0;Soldes Été
+198;2023-07-17;2023;3;7;July;29;17;Monday;0;0;Soldes Été
+199;2023-07-18;2023;3;7;July;29;18;Tuesday;0;0;Soldes Été
+200;2023-07-19;2023;3;7;July;29;19;Wednesday;0;0;Soldes Été
+201;2023-07-20;2023;3;7;July;29;20;Thursday;0;0;Soldes Été
+202;2023-07-21;2023;3;7;July;29;21;Friday;0;0;Soldes Été
+203;2023-07-22;2023;3;7;July;29;22;Saturday;1;0;Soldes Été
+204;2023-07-23;2023;3;7;July;29;23;Sunday;1;0;Soldes Été
+205;2023-07-24;2023;3;7;July;30;24;Monday;0;0;Soldes Été
+206;2023-07-25;2023;3;7;July;30;25;Tuesday;0;0;Soldes Été
+207;2023-07-26;2023;3;7;July;30;26;Wednesday;0;0;Soldes Été
+208;2023-07-27;2023;3;7;July;30;27;Thursday;0;0;Soldes Été
+209;2023-07-28;2023;3;7;July;30;28;Friday;0;0;Soldes Été
+210;2023-07-29;2023;3;7;July;30;29;Saturday;1;0;Soldes Été
+211;2023-07-30;2023;3;7;July;30;30;Sunday;1;0;Soldes Été
+212;2023-07-31;2023;3;7;July;31;31;Monday;0;0;Soldes Été
+213;2023-08-01;2023;3;8;August;31;1;Tuesday;0;0;Soldes Été
+214;2023-08-02;2023;3;8;August;31;2;Wednesday;0;0;Soldes Été
+215;2023-08-03;2023;3;8;August;31;3;Thursday;0;0;Soldes Été
+216;2023-08-04;2023;3;8;August;31;4;Friday;0;0;Soldes Été
+217;2023-08-05;2023;3;8;August;31;5;Saturday;1;0;Soldes Été
+218;2023-08-06;2023;3;8;August;31;6;Sunday;1;0;Soldes Été
+219;2023-08-07;2023;3;8;August;32;7;Monday;0;0;Soldes Été
+220;2023-08-08;2023;3;8;August;32;8;Tuesday;0;0;Soldes Été
+221;2023-08-09;2023;3;8;August;32;9;Wednesday;0;0;Soldes Été
+222;2023-08-10;2023;3;8;August;32;10;Thursday;0;0;Soldes Été
+223;2023-08-11;2023;3;8;August;32;11;Friday;0;0;Soldes Été
+224;2023-08-12;2023;3;8;August;32;12;Saturday;1;0;Soldes Été
+225;2023-08-13;2023;3;8;August;32;13;Sunday;1;0;Soldes Été
+226;2023-08-14;2023;3;8;August;33;14;Monday;0;0;Soldes Été
+227;2023-08-15;2023;3;8;August;33;15;Tuesday;0;0;Soldes Été
+228;2023-08-16;2023;3;8;August;33;16;Wednesday;0;0;Soldes Été
+229;2023-08-17;2023;3;8;August;33;17;Thursday;0;0;Soldes Été
+230;2023-08-18;2023;3;8;August;33;18;Friday;0;0;Soldes Été
+231;2023-08-19;2023;3;8;August;33;19;Saturday;1;0;Soldes Été
+232;2023-08-20;2023;3;8;August;33;20;Sunday;1;0;Soldes Été
+233;2023-08-21;2023;3;8;August;34;21;Monday;0;0;Soldes Été
+234;2023-08-22;2023;3;8;August;34;22;Tuesday;0;0;Soldes Été
+235;2023-08-23;2023;3;8;August;34;23;Wednesday;0;0;Soldes Été
+236;2023-08-24;2023;3;8;August;34;24;Thursday;0;0;Soldes Été
+237;2023-08-25;2023;3;8;August;34;25;Friday;0;0;Soldes Été
+238;2023-08-26;2023;3;8;August;34;26;Saturday;1;0;Soldes Été
+239;2023-08-27;2023;3;8;August;34;27;Sunday;1;0;Soldes Été
+240;2023-08-28;2023;3;8;August;35;28;Monday;0;0;Soldes Été
+241;2023-08-29;2023;3;8;August;35;29;Tuesday;0;0;Soldes Été
+242;2023-08-30;2023;3;8;August;35;30;Wednesday;0;0;Soldes Été
+243;2023-08-31;2023;3;8;August;35;31;Thursday;0;0;Soldes Été
+244;2023-09-01;2023;3;9;September;35;1;Friday;0;0;Normal
+245;2023-09-02;2023;3;9;September;35;2;Saturday;1;0;Normal
+246;2023-09-03;2023;3;9;September;35;3;Sunday;1;0;Normal
+247;2023-09-04;2023;3;9;September;36;4;Monday;0;0;Normal
+248;2023-09-05;2023;3;9;September;36;5;Tuesday;0;0;Normal
+249;2023-09-06;2023;3;9;September;36;6;Wednesday;0;0;Normal
+250;2023-09-07;2023;3;9;September;36;7;Thursday;0;0;Normal
+251;2023-09-08;2023;3;9;September;36;8;Friday;0;0;Normal
+252;2023-09-09;2023;3;9;September;36;9;Saturday;1;0;Normal
+253;2023-09-10;2023;3;9;September;36;10;Sunday;1;0;Normal
+254;2023-09-11;2023;3;9;September;37;11;Monday;0;0;Normal
+255;2023-09-12;2023;3;9;September;37;12;Tuesday;0;0;Normal
+256;2023-09-13;2023;3;9;September;37;13;Wednesday;0;0;Normal
+257;2023-09-14;2023;3;9;September;37;14;Thursday;0;0;Normal
+258;2023-09-15;2023;3;9;September;37;15;Friday;0;0;Normal
+259;2023-09-16;2023;3;9;September;37;16;Saturday;1;0;Normal
+260;2023-09-17;2023;3;9;September;37;17;Sunday;1;0;Normal
+261;2023-09-18;2023;3;9;September;38;18;Monday;0;0;Normal
+262;2023-09-19;2023;3;9;September;38;19;Tuesday;0;0;Normal
+263;2023-09-20;2023;3;9;September;38;20;Wednesday;0;0;Normal
+264;2023-09-21;2023;3;9;September;38;21;Thursday;0;0;Normal
+265;2023-09-22;2023;3;9;September;38;22;Friday;0;0;Normal
+266;2023-09-23;2023;3;9;September;38;23;Saturday;1;0;Normal
+267;2023-09-24;2023;3;9;September;38;24;Sunday;1;0;Normal
+268;2023-09-25;2023;3;9;September;39;25;Monday;0;0;Normal
+269;2023-09-26;2023;3;9;September;39;26;Tuesday;0;0;Normal
+270;2023-09-27;2023;3;9;September;39;27;Wednesday;0;0;Normal
+271;2023-09-28;2023;3;9;September;39;28;Thursday;0;0;Normal
+272;2023-09-29;2023;3;9;September;39;29;Friday;0;0;Normal
+273;2023-09-30;2023;3;9;September;39;30;Saturday;1;0;Normal
+274;2023-10-01;2023;4;10;October;39;1;Sunday;1;0;Normal
+275;2023-10-02;2023;4;10;October;40;2;Monday;0;0;Normal
+276;2023-10-03;2023;4;10;October;40;3;Tuesday;0;0;Normal
+277;2023-10-04;2023;4;10;October;40;4;Wednesday;0;0;Normal
+278;2023-10-05;2023;4;10;October;40;5;Thursday;0;0;Normal
+279;2023-10-06;2023;4;10;October;40;6;Friday;0;0;Normal
+280;2023-10-07;2023;4;10;October;40;7;Saturday;1;0;Normal
+281;2023-10-08;2023;4;10;October;40;8;Sunday;1;0;Normal
+282;2023-10-09;2023;4;10;October;41;9;Monday;0;0;Normal
+283;2023-10-10;2023;4;10;October;41;10;Tuesday;0;0;Normal
+284;2023-10-11;2023;4;10;October;41;11;Wednesday;0;0;Normal
+285;2023-10-12;2023;4;10;October;41;12;Thursday;0;0;Normal
+286;2023-10-13;2023;4;10;October;41;13;Friday;0;0;Normal
+287;2023-10-14;2023;4;10;October;41;14;Saturday;1;0;Normal
+288;2023-10-15;2023;4;10;October;41;15;Sunday;1;0;Normal
+289;2023-10-16;2023;4;10;October;42;16;Monday;0;0;Normal
+290;2023-10-17;2023;4;10;October;42;17;Tuesday;0;0;Normal
+291;2023-10-18;2023;4;10;October;42;18;Wednesday;0;0;Normal
+292;2023-10-19;2023;4;10;October;42;19;Thursday;0;0;Normal
+293;2023-10-20;2023;4;10;October;42;20;Friday;0;0;Normal
+294;2023-10-21;2023;4;10;October;42;21;Saturday;1;0;Normal
+295;2023-10-22;2023;4;10;October;42;22;Sunday;1;0;Normal
+296;2023-10-23;2023;4;10;October;43;23;Monday;0;0;Normal
+297;2023-10-24;2023;4;10;October;43;24;Tuesday;0;0;Normal
+298;2023-10-25;2023;4;10;October;43;25;Wednesday;0;0;Normal
+299;2023-10-26;2023;4;10;October;43;26;Thursday;0;0;Normal
+300;2023-10-27;2023;4;10;October;43;27;Friday;0;0;Normal
+301;2023-10-28;2023;4;10;October;43;28;Saturday;1;0;Normal
+302;2023-10-29;2023;4;10;October;43;29;Sunday;1;0;Normal
+303;2023-10-30;2023;4;10;October;44;30;Monday;0;0;Normal
+304;2023-10-31;2023;4;10;October;44;31;Tuesday;0;0;Normal
+305;2023-11-01;2023;4;11;November;44;1;Wednesday;0;0;Black Friday
+306;2023-11-02;2023;4;11;November;44;2;Thursday;0;0;Black Friday
+307;2023-11-03;2023;4;11;November;44;3;Friday;0;0;Black Friday
+308;2023-11-04;2023;4;11;November;44;4;Saturday;1;0;Black Friday
+309;2023-11-05;2023;4;11;November;44;5;Sunday;1;0;Black Friday
+310;2023-11-06;2023;4;11;November;45;6;Monday;0;0;Black Friday
+311;2023-11-07;2023;4;11;November;45;7;Tuesday;0;0;Black Friday
+312;2023-11-08;2023;4;11;November;45;8;Wednesday;0;0;Black Friday
+313;2023-11-09;2023;4;11;November;45;9;Thursday;0;0;Black Friday
+314;2023-11-10;2023;4;11;November;45;10;Friday;0;0;Black Friday
+315;2023-11-11;2023;4;11;November;45;11;Saturday;1;0;Black Friday
+316;2023-11-12;2023;4;11;November;45;12;Sunday;1;0;Black Friday
+317;2023-11-13;2023;4;11;November;46;13;Monday;0;0;Black Friday
+318;2023-11-14;2023;4;11;November;46;14;Tuesday;0;0;Black Friday
+319;2023-11-15;2023;4;11;November;46;15;Wednesday;0;0;Black Friday
+320;2023-11-16;2023;4;11;November;46;16;Thursday;0;0;Black Friday
+321;2023-11-17;2023;4;11;November;46;17;Friday;0;0;Black Friday
+322;2023-11-18;2023;4;11;November;46;18;Saturday;1;0;Black Friday
+323;2023-11-19;2023;4;11;November;46;19;Sunday;1;0;Black Friday
+324;2023-11-20;2023;4;11;November;47;20;Monday;0;0;Black Friday
+325;2023-11-21;2023;4;11;November;47;21;Tuesday;0;0;Black Friday
+326;2023-11-22;2023;4;11;November;47;22;Wednesday;0;0;Black Friday
+327;2023-11-23;2023;4;11;November;47;23;Thursday;0;0;Black Friday
+328;2023-11-24;2023;4;11;November;47;24;Friday;0;0;Black Friday
+329;2023-11-25;2023;4;11;November;47;25;Saturday;1;0;Black Friday
+330;2023-11-26;2023;4;11;November;47;26;Sunday;1;0;Black Friday
+331;2023-11-27;2023;4;11;November;48;27;Monday;0;0;Black Friday
+332;2023-11-28;2023;4;11;November;48;28;Tuesday;0;0;Black Friday
+333;2023-11-29;2023;4;11;November;48;29;Wednesday;0;0;Black Friday
+334;2023-11-30;2023;4;11;November;48;30;Thursday;0;0;Black Friday
+335;2023-12-01;2023;4;12;December;48;1;Friday;0;0;Normal
+336;2023-12-02;2023;4;12;December;48;2;Saturday;1;0;Normal
+337;2023-12-03;2023;4;12;December;48;3;Sunday;1;0;Normal
+338;2023-12-04;2023;4;12;December;49;4;Monday;0;0;Normal
+339;2023-12-05;2023;4;12;December;49;5;Tuesday;0;0;Normal
+340;2023-12-06;2023;4;12;December;49;6;Wednesday;0;0;Normal
+341;2023-12-07;2023;4;12;December;49;7;Thursday;0;0;Normal
+342;2023-12-08;2023;4;12;December;49;8;Friday;0;0;Normal
+343;2023-12-09;2023;4;12;December;49;9;Saturday;1;0;Normal
+344;2023-12-10;2023;4;12;December;49;10;Sunday;1;0;Normal
+345;2023-12-11;2023;4;12;December;50;11;Monday;0;0;Normal
+346;2023-12-12;2023;4;12;December;50;12;Tuesday;0;0;Normal
+347;2023-12-13;2023;4;12;December;50;13;Wednesday;0;0;Normal
+348;2023-12-14;2023;4;12;December;50;14;Thursday;0;0;Normal
+349;2023-12-15;2023;4;12;December;50;15;Friday;0;0;Normal
+350;2023-12-16;2023;4;12;December;50;16;Saturday;1;0;Normal
+351;2023-12-17;2023;4;12;December;50;17;Sunday;1;0;Normal
+352;2023-12-18;2023;4;12;December;51;18;Monday;0;0;Normal
+353;2023-12-19;2023;4;12;December;51;19;Tuesday;0;0;Normal
+354;2023-12-20;2023;4;12;December;51;20;Wednesday;0;0;Normal
+355;2023-12-21;2023;4;12;December;51;21;Thursday;0;0;Normal
+356;2023-12-22;2023;4;12;December;51;22;Friday;0;0;Normal
+357;2023-12-23;2023;4;12;December;51;23;Saturday;1;0;Normal
+358;2023-12-24;2023;4;12;December;51;24;Sunday;1;0;Normal
+359;2023-12-25;2023;4;12;December;52;25;Monday;0;0;Normal
+360;2023-12-26;2023;4;12;December;52;26;Tuesday;0;0;Normal
+361;2023-12-27;2023;4;12;December;52;27;Wednesday;0;0;Normal
+362;2023-12-28;2023;4;12;December;52;28;Thursday;0;0;Normal
+363;2023-12-29;2023;4;12;December;52;29;Friday;0;0;Normal
+364;2023-12-30;2023;4;12;December;52;30;Saturday;1;0;Normal
+365;2023-12-31;2023;4;12;December;52;31;Sunday;1;0;Normal
+366;2024-01-01;2024;1;1;January;1;1;Monday;0;0;Soldes Hiver
+367;2024-01-02;2024;1;1;January;1;2;Tuesday;0;0;Soldes Hiver
+368;2024-01-03;2024;1;1;January;1;3;Wednesday;0;0;Soldes Hiver
+369;2024-01-04;2024;1;1;January;1;4;Thursday;0;0;Soldes Hiver
+370;2024-01-05;2024;1;1;January;1;5;Friday;0;0;Soldes Hiver
+371;2024-01-06;2024;1;1;January;1;6;Saturday;1;0;Soldes Hiver
+372;2024-01-07;2024;1;1;January;1;7;Sunday;1;0;Soldes Hiver
+373;2024-01-08;2024;1;1;January;2;8;Monday;0;0;Soldes Hiver
+374;2024-01-09;2024;1;1;January;2;9;Tuesday;0;0;Soldes Hiver
+375;2024-01-10;2024;1;1;January;2;10;Wednesday;0;0;Soldes Hiver
+376;2024-01-11;2024;1;1;January;2;11;Thursday;0;0;Soldes Hiver
+377;2024-01-12;2024;1;1;January;2;12;Friday;0;0;Soldes Hiver
+378;2024-01-13;2024;1;1;January;2;13;Saturday;1;0;Soldes Hiver
+379;2024-01-14;2024;1;1;January;2;14;Sunday;1;0;Soldes Hiver
+380;2024-01-15;2024;1;1;January;3;15;Monday;0;0;Soldes Hiver
+381;2024-01-16;2024;1;1;January;3;16;Tuesday;0;0;Soldes Hiver
+382;2024-01-17;2024;1;1;January;3;17;Wednesday;0;0;Soldes Hiver
+383;2024-01-18;2024;1;1;January;3;18;Thursday;0;0;Soldes Hiver
+384;2024-01-19;2024;1;1;January;3;19;Friday;0;0;Soldes Hiver
+385;2024-01-20;2024;1;1;January;3;20;Saturday;1;0;Soldes Hiver
+386;2024-01-21;2024;1;1;January;3;21;Sunday;1;0;Soldes Hiver
+387;2024-01-22;2024;1;1;January;4;22;Monday;0;0;Soldes Hiver
+388;2024-01-23;2024;1;1;January;4;23;Tuesday;0;0;Soldes Hiver
+389;2024-01-24;2024;1;1;January;4;24;Wednesday;0;0;Soldes Hiver
+390;2024-01-25;2024;1;1;January;4;25;Thursday;0;0;Soldes Hiver
+391;2024-01-26;2024;1;1;January;4;26;Friday;0;0;Soldes Hiver
+392;2024-01-27;2024;1;1;January;4;27;Saturday;1;0;Soldes Hiver
+393;2024-01-28;2024;1;1;January;4;28;Sunday;1;0;Soldes Hiver
+394;2024-01-29;2024;1;1;January;5;29;Monday;0;0;Soldes Hiver
+395;2024-01-30;2024;1;1;January;5;30;Tuesday;0;0;Soldes Hiver
+396;2024-01-31;2024;1;1;January;5;31;Wednesday;0;0;Soldes Hiver
+397;2024-02-01;2024;1;2;February;5;1;Thursday;0;0;Soldes Hiver
+398;2024-02-02;2024;1;2;February;5;2;Friday;0;0;Soldes Hiver
+399;2024-02-03;2024;1;2;February;5;3;Saturday;1;0;Soldes Hiver
+400;2024-02-04;2024;1;2;February;5;4;Sunday;1;0;Soldes Hiver
+401;2024-02-05;2024;1;2;February;6;5;Monday;0;0;Soldes Hiver
+402;2024-02-06;2024;1;2;February;6;6;Tuesday;0;0;Soldes Hiver
+403;2024-02-07;2024;1;2;February;6;7;Wednesday;0;0;Soldes Hiver
+404;2024-02-08;2024;1;2;February;6;8;Thursday;0;0;Soldes Hiver
+405;2024-02-09;2024;1;2;February;6;9;Friday;0;0;Soldes Hiver
+406;2024-02-10;2024;1;2;February;6;10;Saturday;1;0;Soldes Hiver
+407;2024-02-11;2024;1;2;February;6;11;Sunday;1;0;Soldes Hiver
+408;2024-02-12;2024;1;2;February;7;12;Monday;0;0;Soldes Hiver
+409;2024-02-13;2024;1;2;February;7;13;Tuesday;0;0;Soldes Hiver
+410;2024-02-14;2024;1;2;February;7;14;Wednesday;0;0;Soldes Hiver
+411;2024-02-15;2024;1;2;February;7;15;Thursday;0;0;Soldes Hiver
+412;2024-02-16;2024;1;2;February;7;16;Friday;0;0;Soldes Hiver
+413;2024-02-17;2024;1;2;February;7;17;Saturday;1;0;Soldes Hiver
+414;2024-02-18;2024;1;2;February;7;18;Sunday;1;0;Soldes Hiver
+415;2024-02-19;2024;1;2;February;8;19;Monday;0;0;Soldes Hiver
+416;2024-02-20;2024;1;2;February;8;20;Tuesday;0;0;Soldes Hiver
+417;2024-02-21;2024;1;2;February;8;21;Wednesday;0;0;Soldes Hiver
+418;2024-02-22;2024;1;2;February;8;22;Thursday;0;0;Soldes Hiver
+419;2024-02-23;2024;1;2;February;8;23;Friday;0;0;Soldes Hiver
+420;2024-02-24;2024;1;2;February;8;24;Saturday;1;0;Soldes Hiver
+421;2024-02-25;2024;1;2;February;8;25;Sunday;1;0;Soldes Hiver
+422;2024-02-26;2024;1;2;February;9;26;Monday;0;0;Soldes Hiver
+423;2024-02-27;2024;1;2;February;9;27;Tuesday;0;0;Soldes Hiver
+424;2024-02-28;2024;1;2;February;9;28;Wednesday;0;0;Soldes Hiver
+425;2024-02-29;2024;1;2;February;9;29;Thursday;0;0;Soldes Hiver
+426;2024-03-01;2024;1;3;March;9;1;Friday;0;0;Ramadan
+427;2024-03-02;2024;1;3;March;9;2;Saturday;1;0;Ramadan
+428;2024-03-03;2024;1;3;March;9;3;Sunday;1;0;Ramadan
+429;2024-03-04;2024;1;3;March;10;4;Monday;0;0;Ramadan
+430;2024-03-05;2024;1;3;March;10;5;Tuesday;0;0;Ramadan
+431;2024-03-06;2024;1;3;March;10;6;Wednesday;0;0;Ramadan
+432;2024-03-07;2024;1;3;March;10;7;Thursday;0;0;Ramadan
+433;2024-03-08;2024;1;3;March;10;8;Friday;0;0;Ramadan
+434;2024-03-09;2024;1;3;March;10;9;Saturday;1;0;Ramadan
+435;2024-03-10;2024;1;3;March;10;10;Sunday;1;0;Ramadan
+436;2024-03-11;2024;1;3;March;11;11;Monday;0;0;Ramadan
+437;2024-03-12;2024;1;3;March;11;12;Tuesday;0;0;Ramadan
+438;2024-03-13;2024;1;3;March;11;13;Wednesday;0;0;Ramadan
+439;2024-03-14;2024;1;3;March;11;14;Thursday;0;0;Ramadan
+440;2024-03-15;2024;1;3;March;11;15;Friday;0;0;Ramadan
+441;2024-03-16;2024;1;3;March;11;16;Saturday;1;0;Ramadan
+442;2024-03-17;2024;1;3;March;11;17;Sunday;1;0;Ramadan
+443;2024-03-18;2024;1;3;March;12;18;Monday;0;0;Ramadan
+444;2024-03-19;2024;1;3;March;12;19;Tuesday;0;0;Ramadan
+445;2024-03-20;2024;1;3;March;12;20;Wednesday;0;0;Ramadan
+446;2024-03-21;2024;1;3;March;12;21;Thursday;0;0;Ramadan
+447;2024-03-22;2024;1;3;March;12;22;Friday;0;0;Ramadan
+448;2024-03-23;2024;1;3;March;12;23;Saturday;1;0;Ramadan
+449;2024-03-24;2024;1;3;March;12;24;Sunday;1;0;Ramadan
+450;2024-03-25;2024;1;3;March;13;25;Monday;0;0;Ramadan
+451;2024-03-26;2024;1;3;March;13;26;Tuesday;0;0;Ramadan
+452;2024-03-27;2024;1;3;March;13;27;Wednesday;0;0;Ramadan
+453;2024-03-28;2024;1;3;March;13;28;Thursday;0;0;Ramadan
+454;2024-03-29;2024;1;3;March;13;29;Friday;0;0;Ramadan
+455;2024-03-30;2024;1;3;March;13;30;Saturday;1;0;Ramadan
+456;2024-03-31;2024;1;3;March;13;31;Sunday;1;0;Ramadan
+457;2024-04-01;2024;2;4;April;14;1;Monday;0;0;Ramadan
+458;2024-04-02;2024;2;4;April;14;2;Tuesday;0;0;Ramadan
+459;2024-04-03;2024;2;4;April;14;3;Wednesday;0;0;Ramadan
+460;2024-04-04;2024;2;4;April;14;4;Thursday;0;0;Ramadan
+461;2024-04-05;2024;2;4;April;14;5;Friday;0;0;Ramadan
+462;2024-04-06;2024;2;4;April;14;6;Saturday;1;0;Ramadan
+463;2024-04-07;2024;2;4;April;14;7;Sunday;1;0;Ramadan
+464;2024-04-08;2024;2;4;April;15;8;Monday;0;0;Ramadan
+465;2024-04-09;2024;2;4;April;15;9;Tuesday;0;0;Ramadan
+466;2024-04-10;2024;2;4;April;15;10;Wednesday;0;0;Ramadan
+467;2024-04-11;2024;2;4;April;15;11;Thursday;0;0;Ramadan
+468;2024-04-12;2024;2;4;April;15;12;Friday;0;0;Ramadan
+469;2024-04-13;2024;2;4;April;15;13;Saturday;1;0;Ramadan
+470;2024-04-14;2024;2;4;April;15;14;Sunday;1;0;Ramadan
+471;2024-04-15;2024;2;4;April;16;15;Monday;0;0;Ramadan
+472;2024-04-16;2024;2;4;April;16;16;Tuesday;0;0;Ramadan
+473;2024-04-17;2024;2;4;April;16;17;Wednesday;0;0;Ramadan
+474;2024-04-18;2024;2;4;April;16;18;Thursday;0;0;Ramadan
+475;2024-04-19;2024;2;4;April;16;19;Friday;0;0;Ramadan
+476;2024-04-20;2024;2;4;April;16;20;Saturday;1;0;Ramadan
+477;2024-04-21;2024;2;4;April;16;21;Sunday;1;0;Ramadan
+478;2024-04-22;2024;2;4;April;17;22;Monday;0;0;Ramadan
+479;2024-04-23;2024;2;4;April;17;23;Tuesday;0;0;Ramadan
+480;2024-04-24;2024;2;4;April;17;24;Wednesday;0;0;Ramadan
+481;2024-04-25;2024;2;4;April;17;25;Thursday;0;0;Ramadan
+482;2024-04-26;2024;2;4;April;17;26;Friday;0;0;Ramadan
+483;2024-04-27;2024;2;4;April;17;27;Saturday;1;0;Ramadan
+484;2024-04-28;2024;2;4;April;17;28;Sunday;1;0;Ramadan
+485;2024-04-29;2024;2;4;April;18;29;Monday;0;0;Ramadan
+486;2024-04-30;2024;2;4;April;18;30;Tuesday;0;0;Ramadan
+487;2024-05-01;2024;2;5;May;18;1;Wednesday;0;0;Normal
+488;2024-05-02;2024;2;5;May;18;2;Thursday;0;0;Normal
+489;2024-05-03;2024;2;5;May;18;3;Friday;0;0;Normal
+490;2024-05-04;2024;2;5;May;18;4;Saturday;1;0;Normal
+491;2024-05-05;2024;2;5;May;18;5;Sunday;1;0;Normal
+492;2024-05-06;2024;2;5;May;19;6;Monday;0;0;Normal
+493;2024-05-07;2024;2;5;May;19;7;Tuesday;0;0;Normal
+494;2024-05-08;2024;2;5;May;19;8;Wednesday;0;0;Normal
+495;2024-05-09;2024;2;5;May;19;9;Thursday;0;0;Normal
+496;2024-05-10;2024;2;5;May;19;10;Friday;0;0;Normal
+497;2024-05-11;2024;2;5;May;19;11;Saturday;1;0;Normal
+498;2024-05-12;2024;2;5;May;19;12;Sunday;1;0;Normal
+499;2024-05-13;2024;2;5;May;20;13;Monday;0;0;Normal
+500;2024-05-14;2024;2;5;May;20;14;Tuesday;0;0;Normal
+501;2024-05-15;2024;2;5;May;20;15;Wednesday;0;0;Normal
+502;2024-05-16;2024;2;5;May;20;16;Thursday;0;0;Normal
+503;2024-05-17;2024;2;5;May;20;17;Friday;0;0;Normal
+504;2024-05-18;2024;2;5;May;20;18;Saturday;1;0;Normal
+505;2024-05-19;2024;2;5;May;20;19;Sunday;1;0;Normal
+506;2024-05-20;2024;2;5;May;21;20;Monday;0;0;Normal
+507;2024-05-21;2024;2;5;May;21;21;Tuesday;0;0;Normal
+508;2024-05-22;2024;2;5;May;21;22;Wednesday;0;0;Normal
+509;2024-05-23;2024;2;5;May;21;23;Thursday;0;0;Normal
+510;2024-05-24;2024;2;5;May;21;24;Friday;0;0;Normal
+511;2024-05-25;2024;2;5;May;21;25;Saturday;1;0;Normal
+512;2024-05-26;2024;2;5;May;21;26;Sunday;1;0;Normal
+513;2024-05-27;2024;2;5;May;22;27;Monday;0;0;Normal
+514;2024-05-28;2024;2;5;May;22;28;Tuesday;0;0;Normal
+515;2024-05-29;2024;2;5;May;22;29;Wednesday;0;0;Normal
+516;2024-05-30;2024;2;5;May;22;30;Thursday;0;0;Normal
+517;2024-05-31;2024;2;5;May;22;31;Friday;0;0;Normal
+518;2024-06-01;2024;2;6;June;22;1;Saturday;1;0;Normal
+519;2024-06-02;2024;2;6;June;22;2;Sunday;1;0;Normal
+520;2024-06-03;2024;2;6;June;23;3;Monday;0;0;Normal
+521;2024-06-04;2024;2;6;June;23;4;Tuesday;0;0;Normal
+522;2024-06-05;2024;2;6;June;23;5;Wednesday;0;0;Normal
+523;2024-06-06;2024;2;6;June;23;6;Thursday;0;0;Normal
+524;2024-06-07;2024;2;6;June;23;7;Friday;0;0;Normal
+525;2024-06-08;2024;2;6;June;23;8;Saturday;1;0;Normal
+526;2024-06-09;2024;2;6;June;23;9;Sunday;1;0;Normal
+527;2024-06-10;2024;2;6;June;24;10;Monday;0;0;Normal
+528;2024-06-11;2024;2;6;June;24;11;Tuesday;0;0;Normal
+529;2024-06-12;2024;2;6;June;24;12;Wednesday;0;0;Normal
+530;2024-06-13;2024;2;6;June;24;13;Thursday;0;0;Normal
+531;2024-06-14;2024;2;6;June;24;14;Friday;0;0;Normal
+532;2024-06-15;2024;2;6;June;24;15;Saturday;1;0;Normal
+533;2024-06-16;2024;2;6;June;24;16;Sunday;1;0;Normal
+534;2024-06-17;2024;2;6;June;25;17;Monday;0;0;Normal
+535;2024-06-18;2024;2;6;June;25;18;Tuesday;0;0;Normal
+536;2024-06-19;2024;2;6;June;25;19;Wednesday;0;0;Normal
+537;2024-06-20;2024;2;6;June;25;20;Thursday;0;0;Normal
+538;2024-06-21;2024;2;6;June;25;21;Friday;0;0;Normal
+539;2024-06-22;2024;2;6;June;25;22;Saturday;1;0;Normal
+540;2024-06-23;2024;2;6;June;25;23;Sunday;1;0;Normal
+541;2024-06-24;2024;2;6;June;26;24;Monday;0;0;Normal
+542;2024-06-25;2024;2;6;June;26;25;Tuesday;0;0;Normal
+543;2024-06-26;2024;2;6;June;26;26;Wednesday;0;0;Normal
+544;2024-06-27;2024;2;6;June;26;27;Thursday;0;0;Normal
+545;2024-06-28;2024;2;6;June;26;28;Friday;0;0;Normal
+546;2024-06-29;2024;2;6;June;26;29;Saturday;1;0;Normal
+547;2024-06-30;2024;2;6;June;26;30;Sunday;1;0;Normal
+548;2024-07-01;2024;3;7;July;27;1;Monday;0;0;Soldes Été
+549;2024-07-02;2024;3;7;July;27;2;Tuesday;0;0;Soldes Été
+550;2024-07-03;2024;3;7;July;27;3;Wednesday;0;0;Soldes Été
+551;2024-07-04;2024;3;7;July;27;4;Thursday;0;0;Soldes Été
+552;2024-07-05;2024;3;7;July;27;5;Friday;0;0;Soldes Été
+553;2024-07-06;2024;3;7;July;27;6;Saturday;1;0;Soldes Été
+554;2024-07-07;2024;3;7;July;27;7;Sunday;1;0;Soldes Été
+555;2024-07-08;2024;3;7;July;28;8;Monday;0;0;Soldes Été
+556;2024-07-09;2024;3;7;July;28;9;Tuesday;0;0;Soldes Été
+557;2024-07-10;2024;3;7;July;28;10;Wednesday;0;0;Soldes Été
+558;2024-07-11;2024;3;7;July;28;11;Thursday;0;0;Soldes Été
+559;2024-07-12;2024;3;7;July;28;12;Friday;0;0;Soldes Été
+560;2024-07-13;2024;3;7;July;28;13;Saturday;1;0;Soldes Été
+561;2024-07-14;2024;3;7;July;28;14;Sunday;1;0;Soldes Été
+562;2024-07-15;2024;3;7;July;29;15;Monday;0;0;Soldes Été
+563;2024-07-16;2024;3;7;July;29;16;Tuesday;0;0;Soldes Été
+564;2024-07-17;2024;3;7;July;29;17;Wednesday;0;0;Soldes Été
+565;2024-07-18;2024;3;7;July;29;18;Thursday;0;0;Soldes Été
+566;2024-07-19;2024;3;7;July;29;19;Friday;0;0;Soldes Été
+567;2024-07-20;2024;3;7;July;29;20;Saturday;1;0;Soldes Été
+568;2024-07-21;2024;3;7;July;29;21;Sunday;1;0;Soldes Été
+569;2024-07-22;2024;3;7;July;30;22;Monday;0;0;Soldes Été
+570;2024-07-23;2024;3;7;July;30;23;Tuesday;0;0;Soldes Été
+571;2024-07-24;2024;3;7;July;30;24;Wednesday;0;0;Soldes Été
+572;2024-07-25;2024;3;7;July;30;25;Thursday;0;0;Soldes Été
+573;2024-07-26;2024;3;7;July;30;26;Friday;0;0;Soldes Été
+574;2024-07-27;2024;3;7;July;30;27;Saturday;1;0;Soldes Été
+575;2024-07-28;2024;3;7;July;30;28;Sunday;1;0;Soldes Été
+576;2024-07-29;2024;3;7;July;31;29;Monday;0;0;Soldes Été
+577;2024-07-30;2024;3;7;July;31;30;Tuesday;0;0;Soldes Été
+578;2024-07-31;2024;3;7;July;31;31;Wednesday;0;0;Soldes Été
+579;2024-08-01;2024;3;8;August;31;1;Thursday;0;0;Soldes Été
+580;2024-08-02;2024;3;8;August;31;2;Friday;0;0;Soldes Été
+581;2024-08-03;2024;3;8;August;31;3;Saturday;1;0;Soldes Été
+582;2024-08-04;2024;3;8;August;31;4;Sunday;1;0;Soldes Été
+583;2024-08-05;2024;3;8;August;32;5;Monday;0;0;Soldes Été
+584;2024-08-06;2024;3;8;August;32;6;Tuesday;0;0;Soldes Été
+585;2024-08-07;2024;3;8;August;32;7;Wednesday;0;0;Soldes Été
+586;2024-08-08;2024;3;8;August;32;8;Thursday;0;0;Soldes Été
+587;2024-08-09;2024;3;8;August;32;9;Friday;0;0;Soldes Été
+588;2024-08-10;2024;3;8;August;32;10;Saturday;1;0;Soldes Été
+589;2024-08-11;2024;3;8;August;32;11;Sunday;1;0;Soldes Été
+590;2024-08-12;2024;3;8;August;33;12;Monday;0;0;Soldes Été
+591;2024-08-13;2024;3;8;August;33;13;Tuesday;0;0;Soldes Été
+592;2024-08-14;2024;3;8;August;33;14;Wednesday;0;0;Soldes Été
+593;2024-08-15;2024;3;8;August;33;15;Thursday;0;0;Soldes Été
+594;2024-08-16;2024;3;8;August;33;16;Friday;0;0;Soldes Été
+595;2024-08-17;2024;3;8;August;33;17;Saturday;1;0;Soldes Été
+596;2024-08-18;2024;3;8;August;33;18;Sunday;1;0;Soldes Été
+597;2024-08-19;2024;3;8;August;34;19;Monday;0;0;Soldes Été
+598;2024-08-20;2024;3;8;August;34;20;Tuesday;0;0;Soldes Été
+599;2024-08-21;2024;3;8;August;34;21;Wednesday;0;0;Soldes Été
+600;2024-08-22;2024;3;8;August;34;22;Thursday;0;0;Soldes Été
+601;2024-08-23;2024;3;8;August;34;23;Friday;0;0;Soldes Été
+602;2024-08-24;2024;3;8;August;34;24;Saturday;1;0;Soldes Été
+603;2024-08-25;2024;3;8;August;34;25;Sunday;1;0;Soldes Été
+604;2024-08-26;2024;3;8;August;35;26;Monday;0;0;Soldes Été
+605;2024-08-27;2024;3;8;August;35;27;Tuesday;0;0;Soldes Été
+606;2024-08-28;2024;3;8;August;35;28;Wednesday;0;0;Soldes Été
+607;2024-08-29;2024;3;8;August;35;29;Thursday;0;0;Soldes Été
+608;2024-08-30;2024;3;8;August;35;30;Friday;0;0;Soldes Été
+609;2024-08-31;2024;3;8;August;35;31;Saturday;1;0;Soldes Été
+610;2024-09-01;2024;3;9;September;35;1;Sunday;1;0;Normal
+611;2024-09-02;2024;3;9;September;36;2;Monday;0;0;Normal
+612;2024-09-03;2024;3;9;September;36;3;Tuesday;0;0;Normal
+613;2024-09-04;2024;3;9;September;36;4;Wednesday;0;0;Normal
+614;2024-09-05;2024;3;9;September;36;5;Thursday;0;0;Normal
+615;2024-09-06;2024;3;9;September;36;6;Friday;0;0;Normal
+616;2024-09-07;2024;3;9;September;36;7;Saturday;1;0;Normal
+617;2024-09-08;2024;3;9;September;36;8;Sunday;1;0;Normal
+618;2024-09-09;2024;3;9;September;37;9;Monday;0;0;Normal
+619;2024-09-10;2024;3;9;September;37;10;Tuesday;0;0;Normal
+620;2024-09-11;2024;3;9;September;37;11;Wednesday;0;0;Normal
+621;2024-09-12;2024;3;9;September;37;12;Thursday;0;0;Normal
+622;2024-09-13;2024;3;9;September;37;13;Friday;0;0;Normal
+623;2024-09-14;2024;3;9;September;37;14;Saturday;1;0;Normal
+624;2024-09-15;2024;3;9;September;37;15;Sunday;1;0;Normal
+625;2024-09-16;2024;3;9;September;38;16;Monday;0;0;Normal
+626;2024-09-17;2024;3;9;September;38;17;Tuesday;0;0;Normal
+627;2024-09-18;2024;3;9;September;38;18;Wednesday;0;0;Normal
+628;2024-09-19;2024;3;9;September;38;19;Thursday;0;0;Normal
+629;2024-09-20;2024;3;9;September;38;20;Friday;0;0;Normal
+630;2024-09-21;2024;3;9;September;38;21;Saturday;1;0;Normal
+631;2024-09-22;2024;3;9;September;38;22;Sunday;1;0;Normal
+632;2024-09-23;2024;3;9;September;39;23;Monday;0;0;Normal
+633;2024-09-24;2024;3;9;September;39;24;Tuesday;0;0;Normal
+634;2024-09-25;2024;3;9;September;39;25;Wednesday;0;0;Normal
+635;2024-09-26;2024;3;9;September;39;26;Thursday;0;0;Normal
+636;2024-09-27;2024;3;9;September;39;27;Friday;0;0;Normal
+637;2024-09-28;2024;3;9;September;39;28;Saturday;1;0;Normal
+638;2024-09-29;2024;3;9;September;39;29;Sunday;1;0;Normal
+639;2024-09-30;2024;3;9;September;40;30;Monday;0;0;Normal
+640;2024-10-01;2024;4;10;October;40;1;Tuesday;0;0;Normal
+641;2024-10-02;2024;4;10;October;40;2;Wednesday;0;0;Normal
+642;2024-10-03;2024;4;10;October;40;3;Thursday;0;0;Normal
+643;2024-10-04;2024;4;10;October;40;4;Friday;0;0;Normal
+644;2024-10-05;2024;4;10;October;40;5;Saturday;1;0;Normal
+645;2024-10-06;2024;4;10;October;40;6;Sunday;1;0;Normal
+646;2024-10-07;2024;4;10;October;41;7;Monday;0;0;Normal
+647;2024-10-08;2024;4;10;October;41;8;Tuesday;0;0;Normal
+648;2024-10-09;2024;4;10;October;41;9;Wednesday;0;0;Normal
+649;2024-10-10;2024;4;10;October;41;10;Thursday;0;0;Normal
+650;2024-10-11;2024;4;10;October;41;11;Friday;0;0;Normal
+651;2024-10-12;2024;4;10;October;41;12;Saturday;1;0;Normal
+652;2024-10-13;2024;4;10;October;41;13;Sunday;1;0;Normal
+653;2024-10-14;2024;4;10;October;42;14;Monday;0;0;Normal
+654;2024-10-15;2024;4;10;October;42;15;Tuesday;0;0;Normal
+655;2024-10-16;2024;4;10;October;42;16;Wednesday;0;0;Normal
+656;2024-10-17;2024;4;10;October;42;17;Thursday;0;0;Normal
+657;2024-10-18;2024;4;10;October;42;18;Friday;0;0;Normal
+658;2024-10-19;2024;4;10;October;42;19;Saturday;1;0;Normal
+659;2024-10-20;2024;4;10;October;42;20;Sunday;1;0;Normal
+660;2024-10-21;2024;4;10;October;43;21;Monday;0;0;Normal
+661;2024-10-22;2024;4;10;October;43;22;Tuesday;0;0;Normal
+662;2024-10-23;2024;4;10;October;43;23;Wednesday;0;0;Normal
+663;2024-10-24;2024;4;10;October;43;24;Thursday;0;0;Normal
+664;2024-10-25;2024;4;10;October;43;25;Friday;0;0;Normal
+665;2024-10-26;2024;4;10;October;43;26;Saturday;1;0;Normal
+666;2024-10-27;2024;4;10;October;43;27;Sunday;1;0;Normal
+667;2024-10-28;2024;4;10;October;44;28;Monday;0;0;Normal
+668;2024-10-29;2024;4;10;October;44;29;Tuesday;0;0;Normal
+669;2024-10-30;2024;4;10;October;44;30;Wednesday;0;0;Normal
+670;2024-10-31;2024;4;10;October;44;31;Thursday;0;0;Normal
+671;2024-11-01;2024;4;11;November;44;1;Friday;0;0;Black Friday
+672;2024-11-02;2024;4;11;November;44;2;Saturday;1;0;Black Friday
+673;2024-11-03;2024;4;11;November;44;3;Sunday;1;0;Black Friday
+674;2024-11-04;2024;4;11;November;45;4;Monday;0;0;Black Friday
+675;2024-11-05;2024;4;11;November;45;5;Tuesday;0;0;Black Friday
+676;2024-11-06;2024;4;11;November;45;6;Wednesday;0;0;Black Friday
+677;2024-11-07;2024;4;11;November;45;7;Thursday;0;0;Black Friday
+678;2024-11-08;2024;4;11;November;45;8;Friday;0;0;Black Friday
+679;2024-11-09;2024;4;11;November;45;9;Saturday;1;0;Black Friday
+680;2024-11-10;2024;4;11;November;45;10;Sunday;1;0;Black Friday
+681;2024-11-11;2024;4;11;November;46;11;Monday;0;0;Black Friday
+682;2024-11-12;2024;4;11;November;46;12;Tuesday;0;0;Black Friday
+683;2024-11-13;2024;4;11;November;46;13;Wednesday;0;0;Black Friday
+684;2024-11-14;2024;4;11;November;46;14;Thursday;0;0;Black Friday
+685;2024-11-15;2024;4;11;November;46;15;Friday;0;0;Black Friday
+686;2024-11-16;2024;4;11;November;46;16;Saturday;1;0;Black Friday
+687;2024-11-17;2024;4;11;November;46;17;Sunday;1;0;Black Friday
+688;2024-11-18;2024;4;11;November;47;18;Monday;0;0;Black Friday
+689;2024-11-19;2024;4;11;November;47;19;Tuesday;0;0;Black Friday
+690;2024-11-20;2024;4;11;November;47;20;Wednesday;0;0;Black Friday
+691;2024-11-21;2024;4;11;November;47;21;Thursday;0;0;Black Friday
+692;2024-11-22;2024;4;11;November;47;22;Friday;0;0;Black Friday
+693;2024-11-23;2024;4;11;November;47;23;Saturday;1;0;Black Friday
+694;2024-11-24;2024;4;11;November;47;24;Sunday;1;0;Black Friday
+695;2024-11-25;2024;4;11;November;48;25;Monday;0;0;Black Friday
+696;2024-11-26;2024;4;11;November;48;26;Tuesday;0;0;Black Friday
+697;2024-11-27;2024;4;11;November;48;27;Wednesday;0;0;Black Friday
+698;2024-11-28;2024;4;11;November;48;28;Thursday;0;0;Black Friday
+699;2024-11-29;2024;4;11;November;48;29;Friday;0;0;Black Friday
+700;2024-11-30;2024;4;11;November;48;30;Saturday;1;0;Black Friday
+701;2024-12-01;2024;4;12;December;48;1;Sunday;1;0;Normal
+702;2024-12-02;2024;4;12;December;49;2;Monday;0;0;Normal
+703;2024-12-03;2024;4;12;December;49;3;Tuesday;0;0;Normal
+704;2024-12-04;2024;4;12;December;49;4;Wednesday;0;0;Normal
+705;2024-12-05;2024;4;12;December;49;5;Thursday;0;0;Normal
+706;2024-12-06;2024;4;12;December;49;6;Friday;0;0;Normal
+707;2024-12-07;2024;4;12;December;49;7;Saturday;1;0;Normal
+708;2024-12-08;2024;4;12;December;49;8;Sunday;1;0;Normal
+709;2024-12-09;2024;4;12;December;50;9;Monday;0;0;Normal
+710;2024-12-10;2024;4;12;December;50;10;Tuesday;0;0;Normal
+711;2024-12-11;2024;4;12;December;50;11;Wednesday;0;0;Normal
+712;2024-12-12;2024;4;12;December;50;12;Thursday;0;0;Normal
+713;2024-12-13;2024;4;12;December;50;13;Friday;0;0;Normal
+714;2024-12-14;2024;4;12;December;50;14;Saturday;1;0;Normal
+715;2024-12-15;2024;4;12;December;50;15;Sunday;1;0;Normal
+716;2024-12-16;2024;4;12;December;51;16;Monday;0;0;Normal
+717;2024-12-17;2024;4;12;December;51;17;Tuesday;0;0;Normal
+718;2024-12-18;2024;4;12;December;51;18;Wednesday;0;0;Normal
+719;2024-12-19;2024;4;12;December;51;19;Thursday;0;0;Normal
+720;2024-12-20;2024;4;12;December;51;20;Friday;0;0;Normal
+721;2024-12-21;2024;4;12;December;51;21;Saturday;1;0;Normal
+722;2024-12-22;2024;4;12;December;51;22;Sunday;1;0;Normal
+723;2024-12-23;2024;4;12;December;52;23;Monday;0;0;Normal
+724;2024-12-24;2024;4;12;December;52;24;Tuesday;0;0;Normal
+725;2024-12-25;2024;4;12;December;52;25;Wednesday;0;0;Normal
+726;2024-12-26;2024;4;12;December;52;26;Thursday;0;0;Normal
+727;2024-12-27;2024;4;12;December;52;27;Friday;0;0;Normal
+728;2024-12-28;2024;4;12;December;52;28;Saturday;1;0;Normal
+729;2024-12-29;2024;4;12;December;52;29;Sunday;1;0;Normal
+730;2024-12-30;2024;4;12;December;1;30;Monday;0;0;Normal
+731;2024-12-31;2024;4;12;December;1;31;Tuesday;0;0;Normal

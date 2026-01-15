@@ -1,0 +1,6 @@
+﻿ID_Promotion;Code_Promo;Nom_Campagne;Type_Remise;Valeur_Remise;Date_Debut;Date_Fin
+1;BIENVENUE10;Bienvenue nouveaux clients;Pourcentage;10;2023-01-01;2024-12-31
+2;BLACKFRIDAY;Black Friday 2024;Pourcentage;30;2024-11-01;2024-11-30
+3;SOLDES50;Soldes Été;Pourcentage;50;2024-07-01;2024-08-31
+4;RAMADAN20;Promo Ramadan;Pourcentage;20;2024-03-01;2024-04-30
+5;;Sans promotion;;0;;
