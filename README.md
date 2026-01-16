@@ -1,4 +1,4 @@
-# OmniMarket 360 - Architecture BI Multi-Sources pour E-Commerce
+# Architecture BI Multi-Sources pour E-Commerce
 
 Ce projet propose une solution complète de **Business Intelligence** pour analyser les performances d'une plateforme e-commerce multi-canaux (Web, Mobile et Magasins physiques). Inspirée des leaders du marché marocain comme Jumia ou Amazon, l'architecture traite l'intégralité de la chaîne décisionnelle, de la génération de données hétérogènes à la visualisation avancée dans Power BI.
 
