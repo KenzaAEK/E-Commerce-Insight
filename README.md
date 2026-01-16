@@ -23,25 +23,6 @@ L'architecture suit le paradigme classique des entrepôts de données:
 4. **Visualisation (Power BI) :** Création de mesures DAX complexes et de dashboards interactifs.
 ---
 
-## 📊 Dashboards Implémentés
-
-Le projet comporte **5 tableaux de bord spécialisés**:
-
-| Dashboard | Audience | Indicateurs Clés (KPIs) |
-| --- | --- | --- |
-| **Vue Exécutive** | Direction Générale | CA total, Marge, Évolution YoY, Panier Moyen.
-|
-| **Analyse Clients** | Marketing & CRM | Segmentation RFM (Gold/Silver/Bronze), Lifetime Value, Performance par ville.
-|
-| **Performance Produits** | Commercial | Analyse ABC, Top/Bottom ventes, Matrice CA vs Marge.
-|
-| **Retours & Logistique** | Supply Chain | Taux de retour, Motifs de réclamation, Impact financier.
-|
-| **Web & Conversion** | E-commerce Manager | Taux de conversion, Abandon de panier, Analyse du tunnel digital.
-|
-
----
-
 Voici une version complète et structurée de la galerie pour votre fichier **README.md**, intégrant les noms de fichiers suggérés et les indicateurs clés (KPIs) extraits de votre rapport technique.
 
 ---
@@ -57,7 +38,7 @@ Vision stratégique de la performance globale permettant une prise de décision 
 * **Indicateurs clés :** Chiffre d'affaires HT (5,80M MAD), Marge Totale (-1,17M MAD), et Panier Moyen (1,61K MAD).
 * **Analyses incluses :** Répartition du CA par canal (Web 57%, Mobile 29%, Magasin 14%) et évolution mensuelle avec moyenne mobile sur 3 mois.
 <p align="center">
-<img src="documentation/images/db_1_vue_executive.png" alt="Dashboard Vue Exécutive" width="800">
+<img src="01_Documentation/images/db_1_vue_executive.png" alt="Dashboard Vue Exécutive" width="800">
 </p>
 
 ---
@@ -68,7 +49,7 @@ Exploration du comportement client pour optimiser les stratégies de marketing e
 * **Segmentation RFM :** Identification des clients **Gold** (représentant 81,64% du CA), Silver, Bronze et Nouveaux.
 * **Performance Géographique :** Visualisation Treemap montrant la dominance des marchés de Casablanca et Rabat.
 <p align="center">
-<img src="documentation/images/db_2_analyse_clients.png" alt="Dashboard Analyse Clients RFM" width="800">
+<img src="01_Documentation/images/db_2_analyse_clients.png" alt="Dashboard Analyse Clients RFM" width="800">
 </p>
 
 ---
@@ -79,7 +60,7 @@ Optimisation du catalogue et de l'assortiment via une analyse granulaire des ré
 * **Analyse ABC :** Classification des produits selon la loi de Pareto pour prioriser les réapprovisionnements (Classe A = Top 70%).
 * **Matrice CA vs Marge :** Identification des produits "Stars" et "Cash Cows" pour ajuster la stratégie de pricing.
 <p align="center">
-<img src="documentation/images/db_3_performance_produits.png" alt="Dashboard Performance Produits" width="800">
+<img src="01_Documentation/images/db_3_performance_produits.png" alt="Dashboard Performance Produits" width="800">
 </p>
 
 ---
@@ -90,7 +71,7 @@ Suivi de la qualité de service et analyse de l'impact financier des retours pro
 * **Indice de qualité :** Suivi d'un taux de retour global de 16% et d'un indice de qualité logistique de 0,84.
 * **Analyse des causes :** Identification des motifs principaux (Couleur différente, Taille incorrecte) représentant 53% du total des retours.
 <p align="center">
-<img src="documentation/images/db_4_retours_logistique.png" alt="Dashboard Retours et Logistique" width="800">
+<img src="01_Documentation/images/db_4_retours_logistique.png" alt="Dashboard Retours et Logistique" width="800">
 </p>
 
 ---
@@ -101,7 +82,7 @@ Analyse du parcours client digital pour maximiser l'efficacité du tunnel de ven
 * **Tunnel de conversion :** Analyse du passage de 100K sessions à 50K achats (taux de conversion de 50%).
 * **Manque à gagner :** Quantification du chiffre d'affaires potentiel perdu dû à l'abandon de panier (35,59M MAD).
 <p align="center">
-<img src="documentation/images/db_5_trafic_conversion.png" alt="Dashboard Funnel E-commerce" width="800">
+<img src="01_Documentation/images/db_5_trafic_conversion.png" alt="Dashboard Funnel E-commerce" width="800">
 </p>
 
 ---
